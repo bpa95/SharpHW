@@ -1,0 +1,5 @@
+/Users/Pavel/Projects/LineCounting/LineCounting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Pavel/Projects/LineCounting/LineCounting/bin/Debug/LineCounting.exe.mdb
+/Users/Pavel/Projects/LineCounting/LineCounting/bin/Debug/LineCounting.exe
+/Users/Pavel/Projects/LineCounting/LineCounting/obj/x86/Debug/LineCounting.exe
+/Users/Pavel/Projects/LineCounting/LineCounting/obj/x86/Debug/LineCounting.exe.mdb

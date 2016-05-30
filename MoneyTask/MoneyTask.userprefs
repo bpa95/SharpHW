@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MoneyTask/MoneyTask.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoneyTask/Program.cs">
+    <Files>
+      <File FileName="MoneyTask/Program.cs" Line="21" Column="41" />
+      <File FileName="MoneyTask/Money.cs" Line="60" Column="38" />
+      <File FileName="MoneyTask/Payment.cs" Line="101" Column="5" />
+      <File FileName="MoneyTask/Currency.cs" Line="207" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
